@@ -6,7 +6,7 @@
 
 1. 树莓派4B+
 
-2. 复旦大学电子系统导论课程智能小车套件（[内容清单]()）
+2. 复旦大学电子系统导论课程智能小车套件（[内容清单1](https://docs.qq.com/doc/DY3RHa0laV09oQmRY)、[内容清单2](https://docs.qq.com/doc/DY3F2QnNZeGR4TkFh)）
 
 # 部署方式
 
@@ -16,9 +16,8 @@
 
 请参考复旦大学电子系统导论课程文档操作：
 
-- [9.小车组装]()
-
-- [10.PWM直流电机]()
+- [9.小车组装](https://docs.qq.com/pdf/DRUtjUUJkdFdCUGNN?)
+- [10.PWM直流电机](https://docs.qq.com/pdf/DRUtQZ25zcXBvWUpr?)
 
 ## 安装`RPi.GPIO`库和`wiringpi`库
 
@@ -32,6 +31,14 @@ pip3 install wiringpi
 ```
 
 ## 下载本项目代码
+
+- （可能更新不及时）[百度网盘下载链接]()
+- [zip下载链接](https://codeload.github.com/fdu-dkw/pwm-music-on-raspberrypi/zip/refs/heads/main)
+- 命令行`cd`到预期安装目录后，运行如下代码：
+
+  ```
+  git clone ...
+  ```
 
 # 使用方法
 

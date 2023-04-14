@@ -33,7 +33,7 @@ pip3 install wiringpi
 ## 下载本项目代码
 
 - （可能更新不及时）[百度网盘下载链接]()
-- [zip下载链接]()
+- [zip下载链接](https://codeload.github.com/fdu-dkw/pwm-music-on-raspberrypi/zip/refs/heads/main)
 - 命令行`cd`到预期安装目录后，运行如下代码：
 
   ```

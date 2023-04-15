@@ -107,7 +107,7 @@ SECTION1 = [
 
 使用`pwmMusic.set()`和`pwmMusic.reset()`方法。
 
-###`pwmMusic.set()`方法
+### `pwmMusic.set()`方法
 
 函数声明：
 
@@ -138,7 +138,7 @@ def set(*, ea, i2, i1, eb, i4, i3, bpm, init_freq, duty)
 
 默认值：`ea=13, i2=19, i1=26, eb=16, i4=20, i3=21, bpm=60, init_freq=FREQ['b6'], duty=10`。
 
-###示例
+### 示例
 
 ```python
 # in La_Campanella.py
@@ -162,7 +162,7 @@ pwmMusic.set(bpm=94, duty=10)
 
 **注意：千万记得在程序的末尾加上它！**否则小车可能会 暴 走 。
 
-###示例
+### 示例
 
 《某科学的超电磁炮》节选：
 
@@ -186,7 +186,7 @@ if __name__ == '__main__':
 
 # Bugs以及解决方案
 
-> 写不动了……出问题发邮件问吧。
+> 写不动了……出问题[发邮件](#联系我)问吧。
 
 # 关于
 
@@ -196,7 +196,8 @@ if __name__ == '__main__':
 - 邓开文，复旦大学，技术科学试验班，2022级
 - 俞霁洲，复旦大学，技术科学试验班，2022级
 
-联系我：kwdeng22@m.fudan.edu.cn
+### 联系我
+📧e-mail：kwdeng22@m.fudan.edu.cn
 
 ## 复旦大学电子系统导论课程
 

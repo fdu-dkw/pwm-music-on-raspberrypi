@@ -4,9 +4,9 @@
 # name       : pwmTuna
 # description: Tune it
 # platform   : RaspberryPi 4B+ (with Fudan University IES car kit)
-# version    : 0.4
 # date       : 2023/4/14
 # e-mail     : kwdeng22@m.fudan.edu.cn
+# repository :https://github.com/fdu-dkw/pwm-music-on-raspberrypi
 # -----------------------------------------------------------------
 # [contributors]
 #
@@ -16,12 +16,10 @@
 # -----------------------------------------------------------------
 # [N.B.]
 #
-# 1) Please read readme.md before running relevant programs.
+# 1) Please read README.md before running relevant programs.
 # 2) Make sure GPIO & L298N are correctly connected.
-# 3) for a better effect, tuning is advised (use pwmTuna.py).
-# 4) usage:
-# |import pwmMusic
-# |from pwmMusic impoort HOLD
+# 3) Tone test is advised before first use.
+# 4) For a better effect, tuning is advised (use pwmTuna.py).
 # =================================================================
 
 import pwmMusic

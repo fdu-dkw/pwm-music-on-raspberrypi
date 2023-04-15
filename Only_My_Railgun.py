@@ -1,3 +1,27 @@
+# =================================================================
+# [info]
+#
+# name       : Only_My_Railgun
+# description: play part of Only My Railgun
+# platform   : RaspberryPi 4B+ (with Fudan University IES car kit)
+# date       : 2023/4/14
+# e-mail     : kwdeng22@m.fudan.edu.cn
+# repository :https://github.com/fdu-dkw/pwm-music-on-raspberrypi
+# -----------------------------------------------------------------
+# [contributors]
+#
+# LIN Yin    | 2022 Computer Science & Technology| Fudan University
+# DENG Kaiwen|         2022 Technological Science| Fudan University
+# YU Jizhou  |         2022 Technological Science| Fudan University
+# -----------------------------------------------------------------
+# [N.B.]
+#
+# 1) Please read README.md before running relevant programs.
+# 2) Make sure GPIO & L298N are correctly connected.
+# 3) Tone test is advised before first use.
+# 4) For a better effect, tuning is advised (use pwmTuna.py).
+# =================================================================
+
 import pwmMusic
 from pwmMusic import HOLD
 

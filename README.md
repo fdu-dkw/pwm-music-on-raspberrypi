@@ -2,7 +2,7 @@
 
 用电导课小车来演奏音乐🎵Turn your IES car into an instrument🎵
 
-[仓库首页](https://github.com/fdu-dkw/pwm-music-on-raspberrypi) | [下载链接](#下载本项目源码) | [关于作者](#关于)
+[仓库首页](https://github.com/fdu-dkw/pwm-music-on-raspberrypi) | [下载链接](#下载本项目源码) | [演示视频👍🪙⭐](https://www.bilibili.com/video/BV1rs4y1m7L4/) | [关于作者](#关于)
 
 ---
 
